@@ -1,2 +1,17 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to Si Drei!</h1>
+<p>24768 Rendsburg Nienstadtstraße 7</p>
+
+<style>
+	:global(body) {
+		display: flex;
+		justify-content: center;
+        align-items: center;
+	}
+	h1 {
+		font-size: 2vw;
+	}
+	p {
+		color: coral;
+		margin: 0 auto;
+	}
+</style>
